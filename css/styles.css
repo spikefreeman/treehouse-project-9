@@ -1,0 +1,19 @@
+* {
+    font-family: 'Courgette', cursive;
+    font-family: 'Roboto', sans-serif;      
+}
+
+body{
+    background-color: #f7ebd3;
+}
+
+nav, .nav{
+    background-color: #efd1a8;
+}
+
+img
+{
+   width: 50%;
+   margin: auto;
+}
+
